@@ -1,0 +1,27 @@
+{
+  "line": "https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png",
+  "title": "Web Skills",
+  "author": {
+    "name": "Alexandru Armas",
+    "email": "alexandruarmas02@gmail.com",
+    "url": "https://alexandruarmas.github.io"
+  },
+  "repo": {
+    "url": "https://github.com/alexandruarmas/coding"
+  },
+  "contributors": [
+    {
+      "name": "Alexandru Armas",
+      "email": "alexandruarmas02@gmail.com",
+      "url": "https://github.com/alexandruarmas",
+      "img": "https://avatars.githubusercontent.com/u/alexandruarmas",
+      "info": [
+        "🔥"
+      ]
+    }
+  ],
+  "license": {
+    "name": "MIT",
+    "url": "https://github.com/alexandruarmas/coding/blob/master/LICENSE.md"
+  }
+} 

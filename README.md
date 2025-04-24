@@ -12,7 +12,7 @@
 <summary>📖 Table of Contents</summary>
 <br />
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#table-of-contents)
 
 ## ➤ Table of Contents
 
@@ -402,7 +402,7 @@
 </details>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#faq)
 
 ## ➤ FAQ
 
@@ -443,7 +443,7 @@ When a skill is described as experimental, it means that the technology is immat
 Reach out to me on Twitter at [@alexandruarmas](https://twitter.com/alexandruarmas) or take a look at [my website](https://alexandruarmas.github.io) if you want to learn more about what other projects I'm working on.
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#fundamentals)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#fundamentals)
 
 ## ➤ Fundamentals
 
@@ -1006,7 +1006,7 @@ Learn how to use the developer console to debug your code.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#accessibility)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#accessibility)
 
 ## ➤ Accessibility
 
@@ -1138,7 +1138,7 @@ Learn how to conduct an accessibility review to improve the overall experience o
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#web-components)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#web-components)
 
 ## ➤ Web Components
 
@@ -1226,7 +1226,7 @@ Learn how the Form Participation API proposal enables elements, other than built
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#progressive-webapps)
 
 ## ➤ Progressive Webapps
 
@@ -1707,7 +1707,7 @@ Learn about the Chrome DevTools and how it can be used to audit your web app.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#build-tools)
 
 ## ➤ Build tools
 
@@ -1872,7 +1872,7 @@ Learn how to use Node.js.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#frameworks--libraries)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#frameworks--libraries)
 
 ## ➤ Frameworks & Libraries
 
@@ -1927,7 +1927,7 @@ Learn how Stencil can be used for generating small, fast web components.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#testing)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#testing)
 
 ## ➤ Testing
 
@@ -2096,7 +2096,7 @@ Learn about the best practices when it comes to testing.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#architecture--paradigms)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#architecture--paradigms)
 
 ## ➤ Architecture & paradigms
 
@@ -2279,7 +2279,7 @@ Learn about the OOCSS methodology and when it should be used.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#team-collaboration)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#team-collaboration)
 
 ## ➤ Team Collaboration
 
@@ -2358,7 +2358,7 @@ Learn about test driven development and when to use it.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#design--ux)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#design--ux)
 
 ## ➤ Design & UX
 
@@ -2595,7 +2595,7 @@ Learn about some of the best practices when designing.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#the-modern-web)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#the-modern-web)
 
 ## ➤ The Modern Web
 
@@ -3034,7 +3034,7 @@ Learn how the Network Information API proposal can give you information about th
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#algorithms--data-structures)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#algorithms--data-structures)
 
 ## ➤ Algorithms & Data structures
 
@@ -3322,7 +3322,7 @@ Learn about hashing algorithms.
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#databases--servers)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#databases--servers)
 
 ## ➤ Databases & Servers
 
@@ -3701,7 +3701,7 @@ Learn how to use SSH and learn how to connect to a device using an SSH client.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhelp.ubnt.com" alt="Logo" /> How to Establish a Connection Using SSH](https://help.ubnt.com/hc/en-us/articles/218850057-Intro-to-Networking-How-to-Establish-a-Connection-Using-SSH)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributors)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#contributors)
 
 ## ➤ Contributors
 	
@@ -3712,7 +3712,7 @@ Learn how to use SSH and learn how to connect to a device using an SSH client.
 | 🔥                                               |                                                  |
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/alexandruarmas/coding/master/assets/lines/colored.png)](#license)
 
 ## ➤ License
 	
