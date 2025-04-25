@@ -174,7 +174,7 @@ Learn about margin collapsing.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Margin Collapse in CSS: What, Why, and How](https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbitsofco.de" alt="Logo" /> What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fjonathan-harrell.com" alt="Logo" /> What's the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fjonathan-harrell.com" alt="Logo" /> What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 
 ### Colors
 
@@ -465,7 +465,7 @@ Learn how to paint graphics onto a canvas.
 Learn how to create good documentation and why it is important.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fjsdoc.app" alt="Logo" /> Getting Started with JSDoc](https://jsdoc.app/about-getting-started.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.writethedocs.org" alt="Logo" /> A beginner's guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.writethedocs.org" alt="Logo" /> A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> Write Good Documentation](https://hackernoon.com/write-good-documentation-6caffb9082b4)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdev.to" alt="Logo" /> The power of jsDoc](https://dev.to/gmartigny/the-power-of-jsdoc-272d)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdev.to" alt="Logo" /> Document your Javascript code with JSDoc](https://dev.to/paulasantamaria/document-your-javascript-code-with-jsdoc-2fbf)
@@ -1071,7 +1071,7 @@ Learn about rendering, how a page is rendered and why it is important to keep yo
 
 ### Event loop
 
-Learn about the event loop and how Javascript simulate like it's running our commands in a multi-thread environment.
+Learn about the event loop and how Javascript simulate like it’s running our commands in a multi-thread environment.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fyoutu.be" alt="Logo" /> Youtube - Jake Archibald: In The Loop](https://youtu.be/cCOL7MC4Pl0)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Understanding JavaScript](https://medium.com/@muratcatal/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e)
@@ -1334,7 +1334,7 @@ Learn about Yarn and how it can be used to manage dependencies.
 Learn about module bundler and how they can help bundling your code.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - What is a module bundler?](https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - Let's learn how module bundlers work](https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - Let’s learn how module bundlers work](https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> JavaScript Bundlers, a Comparison](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
 
 #### Rollup
@@ -1390,7 +1390,7 @@ Learn how you can use ESLint to lint your code.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Feslint.org" alt="Logo" /> Eslint - Getting Started](https://eslint.org/docs/user-guide/getting-started)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Streamline Code Reviews with ESLint + Prettier](https://medium.com/javascript-scene/streamline-code-reviews-with-eslint-prettier-6fb817a6b51d)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.futurehosting.com" alt="Logo" /> Prettier vs ESLint: What's The Difference?](https://www.futurehosting.com/blog/prettier-vs-eslint-whats-the-difference/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.futurehosting.com" alt="Logo" /> Prettier vs ESLint: What’s The Difference?](https://www.futurehosting.com/blog/prettier-vs-eslint-whats-the-difference/)
 
 ### Task Runners
 
@@ -1421,7 +1421,7 @@ Learn about Babel and how you can use it to transpile your code.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Complete Babel 7 Guide for Beginners](https://medium.com/@onlykiosk/complete-babel-7-guide-for-beginners-in-2019-7dd78214c464)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbabeljs.io" alt="Logo" /> Babel - What is Babel?](https://babeljs.io/docs/en/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbabeljs.io" alt="Logo" /> Babel - Usage Guide](https://babeljs.io/docs/en/usage)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.sitepoint.com" alt="Logo" /> A Beginner's Guide to Babel](https://www.sitepoint.com/babel-beginners-guide/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.sitepoint.com" alt="Logo" /> A Beginner’s Guide to Babel](https://www.sitepoint.com/babel-beginners-guide/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> Moving to ES6 — Babel and Transpilers](https://hackernoon.com/moving-to-es6-babel-and-transpilers-337921c025b1)
 
 #### Typescript
@@ -2086,7 +2086,7 @@ Learn how a loading state can improve the user experience.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.viget.com" alt="Logo" /> A Bone to Pick with Skeleton Screens](https://www.viget.com/articles/a-bone-to-pick-with-skeleton-screens/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fuxdesign.cc" alt="Logo" /> When to use loaders & empty states](https://uxdesign.cc/when-to-use-loaders-empty-states-ebd23cecc7d6)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.uisources.com" alt="Logo" /> Empty/Loading State](https://www.uisources.com/pattern/empty-loading-state)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fuxmovement.com" alt="Logo" /> When You Need to Show a Button's Loading State](https://uxmovement.com/buttons/when-you-need-to-show-a-buttons-loading-state/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fuxmovement.com" alt="Logo" /> When You Need to Show a Button’s Loading State](https://uxmovement.com/buttons/when-you-need-to-show-a-buttons-loading-state/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fblog.iamsuleiman.com" alt="Logo" /> Stop Using Loading Spinner](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 
 ### The Golden Ratio

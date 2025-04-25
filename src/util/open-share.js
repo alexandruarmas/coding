@@ -41,7 +41,7 @@ export async function openShare ({title, text, url}) {
 	const safeTitle = encodeURIComponent(title);
 	const safeText = encodeURIComponent(text);
 	const safeUrl = encodeURIComponent(url);
-	const img = `https://andreasbm.github.io/web-skills/www/og-image.jpg`;
+	const img = `https://alexandruarmas.github.io/coding/www/og-image.jpg`;
 	const safeImg = encodeURIComponent(img);
 
 	const shareOptions = [
@@ -61,7 +61,7 @@ export async function openShare ({title, text, url}) {
 		["Mix", () => openShareUrl(`https://mix.com/add?url=${safeUrl}`)]
 	];
 
-	// https://www.pinterest.dk/pin/create/button/?url=https://andreasbm.github.io/web-skills&description=A%20visual%20overview%20blah%20blah&media=https://andreasbm.github.io/web-skills/www/og-image.jpg
+	// https://www.pinterest.dk/pin/create/button/?url=https://alexandruarmas.github.io/coding&description=A%20visual%20overview%20blah%20blah&media=https://alexandruarmas.github.io/coding/www/og-image.jpg
 
 	const {$dialog, resolver} = openDialog({
 		center: true,

@@ -34,7 +34,7 @@ export function getShareUrl () {
 }
 
 export const getShareConfig = () => ({
-	title: "Web Skills",
+	title: "Coding Skills",
 	text: "A visual overview of useful skills to learn as a web developer",
 	url: getShareUrl()
 });
