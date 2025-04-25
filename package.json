@@ -51,11 +51,6 @@
 			"info": [
 				"🔥"
 			]
-		},
-		{
-			"name": "You?",
-			"img": "https://joeschmoe.io/api/v1/random",
-			"url": "https://github.com/alexandruarmas/coding/blob/master/CONTRIBUTING.md"
 		}
 	],
 	"dependencies": {
