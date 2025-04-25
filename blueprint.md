@@ -1,10 +1,10 @@
-<h1 align="center">Web Skills</h1>
+<h1 align="center">Coding Skills</h1>
 <p align="center">
-	Web Skills is a visual overview of useful skills to learn as a web developer. Go to <a href="https://alexandruarmas.github.io/coding" target="_blank" aria-label="Link to Web Skills">https://alexandruarmas.github.io/coding</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/alexandruarmas/coding/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
+	Coding Skills is a visual overview of useful skills to learn as a web developer. Go to <a href="https://alexandruarmas.github.io/coding" target="_blank" aria-label="Link to Coding Skills">https://alexandruarmas.github.io/coding</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/alexandruarmas/coding/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
 </p> 
 <p align="center">
 	<a href="http://alexandruarmas.github.io/coding" target="_blank">
-		<img src="https://raw.githubusercontent.com/alexandruarmas/coding/master/demo.gif" alt="Web Skills Demo" width="800" />
+		<img src="https://raw.githubusercontent.com/alexandruarmas/coding/master/demo.gif" alt="Coding Skills Demo" width="800" />
 	</a>
 </p>
 <br />
@@ -16,9 +16,9 @@
 
 ## FAQ
 
-### What is Web Skills?
+### What is Coding Skills?
 
-Web Skills is a visual overview of useful skills to learn as a web developer. It is useful for people who just started learning about web development and for people who have been in the field for years and want to learn new things. As a beginner, I would encourage you not to see this website as the definitive list of what you need to know but as an example of what you can learn and where you can start. The skills are arranged in chronological order based on what learning path I recommend you to take but feel free to jump around freely.
+Coding Skills is a visual overview of useful skills to learn as a web developer. It is useful for people who just started learning about web development and for people who have been in the field for years and want to learn new things. As a beginner, I would encourage you not to see this website as the definitive list of what you need to know but as an example of what you can learn and where you can start. The skills are arranged in chronological order based on what learning path I recommend you to take but feel free to jump around freely.
 
 ### How did you choose the skills?
 		
@@ -26,7 +26,7 @@ The skills are derived from a combination of experience, education in software e
 
 ### How can I support you?
 
-I am spending my spare time building Web Skills for free because I want to help people get into web development. My motivation comes from people finding Web Skills useful, so if you like the project feel free to support me in any way you like! For example, you are more than welcome to become a [stargazer](https://github.com/alexandruarmas/coding/stargazers), share Web Skills with your friends and followers or create blog articles linking to Web Skills. If you want to, it will absolutely make my day if you [support me with a cup of coffee](https://www.buymeacoffee.com/alexandruarmas)! <3
+I am spending my spare time building Coding Skills for free because I want to help people get into web development. My motivation comes from people finding Coding Skills useful, so if you like the project feel free to support me in any way you like! For example, you are more than welcome to become a [stargazer](https://github.com/alexandruarmas/coding/stargazers), share Coding Skills with your friends and followers or create blog articles linking to Coding Skills. If you want to, it will absolutely make my day if you [support me with a cup of coffee](https://www.buymeacoffee.com/alexandruarmas)! <3
 
 ### How can I get involved?
 
@@ -46,7 +46,7 @@ The skills are based on what I personally find to be the most useful on a day-to
 
 ### What does the "experimental" banner mean?
 
-When a skill is described as experimental, it means that the technology is immature and currently in the process of being added to the Web platform (or considered for addition). Think carefully before you start using experimental technology in any kind of production project. The definition used in Web Skills is based on the excellent definition used on [MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Conventions_definitions#Experimental). You are very welcome to open an issue if you see a skill you believe should be marked as "experimental" or have the banner removed.
+When a skill is described as experimental, it means that the technology is immature and currently in the process of being added to the Web platform (or considered for addition). Think carefully before you start using experimental technology in any kind of production project. The definition used in Coding Skills is based on the excellent definition used on [MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Conventions_definitions#Experimental). You are very welcome to open an issue if you see a skill you believe should be marked as "experimental" or have the banner removed.
 
 ### How can I get in contact with you?
 
