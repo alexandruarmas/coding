@@ -748,4 +748,4 @@ export class App extends LitElement {
 	}
 }
 
-customElements.define("ws-app", App);
+customElements.define("cs-app", App);
