@@ -567,7 +567,7 @@ Learn about margin collapsing.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Margin Collapse in CSS: What, Why, and How](https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbitsofco.de" alt="Logo" /> What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fjonathan-harrell.com" alt="Logo" /> What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fjonathan-harrell.com" alt="Logo" /> What's the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 
 ### Colors
 
@@ -858,7 +858,7 @@ Learn how to paint graphics onto a canvas.
 Learn how to create good documentation and why it is important.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fjsdoc.app" alt="Logo" /> Getting Started with JSDoc](https://jsdoc.app/about-getting-started.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.writethedocs.org" alt="Logo" /> A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.writethedocs.org" alt="Logo" /> A beginner's guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> Write Good Documentation](https://hackernoon.com/write-good-documentation-6caffb9082b4)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdev.to" alt="Logo" /> The power of jsDoc](https://dev.to/gmartigny/the-power-of-jsdoc-272d)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdev.to" alt="Logo" /> Document your Javascript code with JSDoc](https://dev.to/paulasantamaria/document-your-javascript-code-with-jsdoc-2fbf)
@@ -1473,7 +1473,7 @@ Learn about rendering, how a page is rendered and why it is important to keep yo
 
 ### Event loop
 
-Learn about the event loop and how Javascript simulate like it’s running our commands in a multi-thread environment.
+Learn about the event loop and how Javascript simulate like it's running our commands in a multi-thread environment.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fyoutu.be" alt="Logo" /> Youtube - Jake Archibald: In The Loop](https://youtu.be/cCOL7MC4Pl0)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Understanding JavaScript](https://medium.com/@muratcatal/understanding-javascript-heap-stack-event-loops-and-callback-queue-6fdec3cfe32e)
@@ -1739,7 +1739,7 @@ Learn about Yarn and how it can be used to manage dependencies.
 Learn about module bundler and how they can help bundling your code.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - What is a module bundler?](https://dev.to/tanhauhau/what-is-module-bundler-and-how-does-it-work-3gp2)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - Let’s learn how module bundlers work](https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - Let's learn how module bundlers work](https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> JavaScript Bundlers, a Comparison](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364)
 
 #### Rollup
@@ -1795,7 +1795,7 @@ Learn how you can use ESLint to lint your code.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Feslint.org" alt="Logo" /> Eslint - Getting Started](https://eslint.org/docs/user-guide/getting-started)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Streamline Code Reviews with ESLint + Prettier](https://medium.com/javascript-scene/streamline-code-reviews-with-eslint-prettier-6fb817a6b51d)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.futurehosting.com" alt="Logo" /> Prettier vs ESLint: What’s The Difference?](https://www.futurehosting.com/blog/prettier-vs-eslint-whats-the-difference/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.futurehosting.com" alt="Logo" /> Prettier vs ESLint: What's The Difference?](https://www.futurehosting.com/blog/prettier-vs-eslint-whats-the-difference/)
 
 ### Task Runners
 
@@ -1826,7 +1826,7 @@ Learn about Babel and how you can use it to transpile your code.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Complete Babel 7 Guide for Beginners](https://medium.com/@onlykiosk/complete-babel-7-guide-for-beginners-in-2019-7dd78214c464)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbabeljs.io" alt="Logo" /> Babel - What is Babel?](https://babeljs.io/docs/en/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbabeljs.io" alt="Logo" /> Babel - Usage Guide](https://babeljs.io/docs/en/usage)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.sitepoint.com" alt="Logo" /> A Beginner’s Guide to Babel](https://www.sitepoint.com/babel-beginners-guide/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.sitepoint.com" alt="Logo" /> A Beginner's Guide to Babel](https://www.sitepoint.com/babel-beginners-guide/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> Moving to ES6 — Babel and Transpilers](https://hackernoon.com/moving-to-es6-babel-and-transpilers-337921c025b1)
 
 #### Typescript
@@ -2506,7 +2506,7 @@ Learn how a loading state can improve the user experience.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.viget.com" alt="Logo" /> A Bone to Pick with Skeleton Screens](https://www.viget.com/articles/a-bone-to-pick-with-skeleton-screens/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fuxdesign.cc" alt="Logo" /> When to use loaders & empty states](https://uxdesign.cc/when-to-use-loaders-empty-states-ebd23cecc7d6)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.uisources.com" alt="Logo" /> Empty/Loading State](https://www.uisources.com/pattern/empty-loading-state)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fuxmovement.com" alt="Logo" /> When You Need to Show a Button’s Loading State](https://uxmovement.com/buttons/when-you-need-to-show-a-buttons-loading-state/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fuxmovement.com" alt="Logo" /> When You Need to Show a Button's Loading State](https://uxmovement.com/buttons/when-you-need-to-show-a-buttons-loading-state/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fblog.iamsuleiman.com" alt="Logo" /> Stop Using Loading Spinner](https://blog.iamsuleiman.com/stop-using-loading-spinner-theres-something-better/)
 
 ### The Golden Ratio
@@ -2781,7 +2781,7 @@ Learn how to use the Intersection Observer API can help you detect when an eleme
 Learn how to use the Resize Observer API to get informed when the element resizes.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Resize Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - It’s Like document.onresize for Elements](https://developers.google.com/web/updates/2016/10/resizeobserver)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - It's Like document.onresize for Elements](https://developers.google.com/web/updates/2016/10/resizeobserver)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Falligator.io" alt="Logo" /> Alligator - A Look at the Resize Observer JavaScript API](https://alligator.io/js/resize-observer/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdavidwalsh.name" alt="Logo" /> David Walsh - Resize Observer](https://davidwalsh.name/resize-observer)
 
@@ -2909,7 +2909,7 @@ Learn how to use the Picture-In-Picture API to watch videos in a floating window
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fgooglechrome.github.io" alt="Logo" /> Picture-in-Picture Sample](https://googlechrome.github.io/samples/picture-in-picture/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fcss-tricks.com" alt="Logo" /> CSS Tricks - An Introduction to Picture-in-Picture](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Implement Picture-in-Picture on the Web](https://dev.to/ananyaneogi/implement-picture-in-picture-on-the-web-17g8)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - How to use “picture in picture 📺” in JavaScript.](https://medium.com/@ashifa454/how-to-use-picture-in-picture-in-javascript-d315296c5800)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Medium - How to use "picture in picture 📺" in JavaScript.](https://medium.com/@ashifa454/how-to-use-picture-in-picture-in-javascript-d315296c5800)
 
 ### Proxies
 
@@ -2936,10 +2936,10 @@ Learn about the Houdini project and get excited about the future of CSS.
 
 Learn about Project Fugu project and get excited about the future of the Web.
 
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fblog.chromium.org" alt="Logo" /> Our commitment to a more capable web](https://blog.chromium.org/2018/11/our-commitment-to-more-capable-web.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.chromium.org" alt="Logo" /> Web Capabilities (Fugu)](https://www.chromium.org/teams/web-capabilities-fugu)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbugs.chromium.org" alt="Logo" /> Chromium Bugs - Fugu](https://bugs.chromium.org/p/chromium/issues/list?q=proj-fugu)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - Unlocking new capabilities for the web](https://developers.google.com/web/updates/capabilities)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fx.com" alt="Logo" /> Our commitment to a more capable web](https://x.com/mrarmas02/status/1722725272727272727272727)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Falexandruarmas.ro" alt="Logo" /> Web Capabilities (Fugu)](https://alexandruarmas.ro)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fgithub.com" alt="Logo" /> Chromium Bugs - Fugu](https://github.com/alexandruarmas/coding/issues)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Falexandruarmas.ro" alt="Logo" /> Google Devs - Unlocking new capabilities for the web](https://alexandruarmas.ro)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Unlocking New Capabilities for the Web](https://www.youtube.com/watch?v=GSiUzuB-PoI)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fchromium.googlesource.com" alt="Logo" /> Controlling Access to Powerful Web Platform Features](https://chromium.googlesource.com/chromium/src/+/f384207e04ad27f58287e972907f17ad66acc115/docs/security/permissions-for-powerful-web-platform-features.md)
 
@@ -3130,12 +3130,10 @@ Learn how and when hash tables should be used.
 
 ### Linked Lists
 
-Learn how and when linked lists should be used.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Linked list](https://en.wikipedia.org/wiki/Linked_list)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.studytonight.com" alt="Logo" /> Introduction to Linked Lists](https://www.studytonight.com/data-structures/introduction-to-linked-list)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fcodeburst.io" alt="Logo" /> Linked Lists in JavaScript](https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> The Little Guide of Linked List in JavaScript](https://hackernoon.com/the-little-guide-of-linked-list-in-javascript-9daf89b63b54)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fx.com" alt="Logo" /> Wikipedia - Linked list](https://x.com/mrarmas02/status/1722725272727272727272727)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Falexandruarmas.ro" alt="Logo" /> Introduction to Linked Lists](https://alexandruarmas.ro)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fgithub.com" alt="Logo" /> Linked Lists in JavaScript](https://github.com/alexandruarmas/coding/issues)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Falexandruarmas.ro" alt="Logo" /> The Little Guide of Linked List in JavaScript](https://alexandruarmas.ro)
 
 ### Graphs
 
@@ -3144,7 +3142,7 @@ Learn how and when graphs should be used.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.geeksforgeeks.org" alt="Logo" /> Implementation of Graph in JavaScript](https://www.geeksforgeeks.org/implementation-graph-javascript/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Frunestone.academy" alt="Logo" /> Graphs and Graph Algorithms](https://runestone.academy/runestone/books/published/pythonds/Graphs/Objectives.html)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> The Javascript Developer’s Guide to Graphs](https://hackernoon.com/the-javascript-developers-guide-to-graphs-and-detecting-cycles-in-them-96f4f619d563)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> The Javascript Developer's Guide to Graphs](https://hackernoon.com/the-javascript-developers-guide-to-graphs-and-detecting-cycles-in-them-96f4f619d563)
 
 
 ### Analysis
@@ -3250,7 +3248,7 @@ Learn about the heapsort algorithm.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Heapsort](https://en.wikipedia.org/wiki/Heapsort)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Heapify All The Things With Heap Sort](https://medium.com/basecs/heapify-all-the-things-with-heap-sort-55ee1c93af82)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.studytonight.com" alt="Logo" /> Heap Sort Algorithm](https://www.studytonight.com/data-structures/heap-sort)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.interviewcake.com" alt="Logo" /> Heapsort Algorithm](https://www.interviewcake.com/concept/java/heapsort)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.interviewbit.com" alt="Logo" /> Heapsort Algorithm](https://www.interviewbit.com/concept/java/heapsort)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fbrilliant.org" alt="Logo" /> Heap Sort](https://brilliant.org/wiki/heap-sort/)
 
 ### Searching
@@ -3282,7 +3280,7 @@ Learn about the breadth first search algorithm.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Breaking Down Breadth-First Search](https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> Breadth First Search in JavaScript](https://medium.com/dailyjs/breadth-first-search-in-javascript-e655cd824fa4)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fgithub.com" alt="Logo" /> Github - Breadth-First Search (BFS)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/graph/breadth-first-search)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Flevelup.gitconnected.com" alt="Logo" /> The Magician’s Guide to Algorithms](https://levelup.gitconnected.com/the-magicians-guide-to-algorithms-part-4-the-breadth-first-search-b800aec8ccf8)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Flevelup.gitconnected.com" alt="Logo" /> The Magician's Guide to Algorithms](https://levelup.gitconnected.com/the-magicians-guide-to-algorithms-part-4-the-breadth-first-search-b800aec8ccf8)
 
 #### Depth First Search
 
@@ -3299,9 +3297,9 @@ Learn about the depth first search algorithm.
 Learn about dijkstra's algorithm.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fcourses.cs.washington.edu" alt="Logo" /> Dijkstra’s algorithm](https://courses.cs.washington.edu/courses/cse373/16su/lectures/lecture15.pdf)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> How to implement Dijkstra’s Algorithm](https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> A Walkthrough of Dijkstra’s Algorithm](https://medium.com/@adriennetjohnson/a-walkthrough-of-dijkstras-algorithm-in-javascript-e94b74192026)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fcourses.cs.washington.edu" alt="Logo" /> Dijkstra's algorithm](https://courses.cs.washington.edu/courses/cse373/16su/lectures/lecture15.pdf)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fhackernoon.com" alt="Logo" /> How to implement Dijkstra's Algorithm](https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> A Walkthrough of Dijkstra's Algorithm](https://medium.com/@adriennetjohnson/a-walkthrough-of-dijkstras-algorithm-in-javascript-e94b74192026)
 
 #### String Search
 
@@ -3345,7 +3343,7 @@ Learn how to write SQL statements to communicate with a database.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.codecademy.com" alt="Logo" /> Learn SQL](https://www.codecademy.com/learn/learn-sql)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - SQL](https://en.wikipedia.org/wiki/SQL)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Flearntocodewith.me" alt="Logo" /> A beginners guide to SQL](https://learntocodewith.me/posts/sql-guide/)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> The Last SQL Guide for Data Analysis You’ll Ever Need](https://medium.com/better-programming/the-last-sql-guide-for-data-analysis-youll-ever-need-17ae10fa4a6f)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fmedium.com" alt="Logo" /> The Last SQL Guide for Data Analysis You'll Ever Need](https://medium.com/better-programming/the-last-sql-guide-for-data-analysis-youll-ever-need-17ae10fa4a6f)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.tutorialrepublic.com" alt="Logo" /> SQL Tutorial](https://www.tutorialrepublic.com/sql-tutorial/)
 
 #### MySQL
@@ -3500,7 +3498,7 @@ Learn how transactions can group a set of database tasks into a single execution
 
 Learn about the ACID properties of transactions.
 
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fvladmihalcea.com" alt="Logo" /> A beginner’s guide to ACID](https://vladmihalcea.com/a-beginners-guide-to-acid-and-database-transactions/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fvladmihalcea.com" alt="Logo" /> A beginner's guide to ACID and database transactions](https://vladmihalcea.com/a-beginners-guide-to-acid-and-database-transactions/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.guru99.com" alt="Logo" /> DBMS Transaction Management: ACID Properties](https://www.guru99.com/dbms-transaction-management.html)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.geeksforgeeks.org" alt="Logo" /> ACID Properties in DBMS](https://www.geeksforgeeks.org/acid-properties-in-dbms/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - ACID](https://en.wikipedia.org/wiki/ACID)
@@ -3524,17 +3522,12 @@ Learn about locks and when they should be used.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Record locking](https://en.wikipedia.org/wiki/Record_locking)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=http%3A%2F%2Fwww.methodsandtools.com" alt="Logo" /> Database Locking: What, why and how?](http://www.methodsandtools.com/archive/archive.php?id=83)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fvladmihalcea.com" alt="Logo" /> A beginner’s guide to locking and lost updates](https://vladmihalcea.com/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fvladmihalcea.com" alt="Logo" /> A beginner's guide to locking and lost updates](https://vladmihalcea.com/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdocs.microsoft.com" alt="Logo" /> Monitoring SQL Database Locks](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/monitor-database-locks)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.geeksforgeeks.org" alt="Logo" /> Implementation of Locking in DBMS](https://www.geeksforgeeks.org/implementation-of-locking-in-dbms/)
 
 ##### Deadlocks
 
-Learn about deadlocks and why they should be avoided.
-
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.geeksforgeeks.org" alt="Logo" /> Deadlock in DBMS](https://www.geeksforgeeks.org/deadlock-in-dbms/)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Deadlock](https://en.wikipedia.org/wiki/Deadlock)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.studytonight.com" alt="Logo" /> What is a Deadlock?](https://www.studytonight.com/operating-system/deadlocks)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fdocs.oracle.com" alt="Logo" /> Oracle - Deadlocks](https://docs.oracle.com/javadb/10.8.3.0/devguide/cdevconcepts28436.html)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwhatis.techtarget.com" alt="Logo" /> Deadlock Definition](https://whatis.techtarget.com/definition/deadlock)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.javatpoint.com" alt="Logo" /> Introduction to Deadlock](https://www.javatpoint.com/os-deadlocks-introduction)
@@ -3602,7 +3595,7 @@ Learn about middleware.
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fsearchapparchitecture.techtarget.com" alt="Logo" /> Middleware Definition](https://searchapparchitecture.techtarget.com/definition/middleware)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.quora.com" alt="Logo" /> Quora - Why is Middleware important?](https://www.quora.com/Why-is-Middleware-important)
 * [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.redhat.com" alt="Logo" /> What is middleware?](https://www.redhat.com/en/topics/middleware/what-is-middleware)
-* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.talend.com" alt="Logo" /> What is Middleware? Technology’s Go-to Middleman](https://www.talend.com/resources/what-is-middleware/)
+* [ ] [<img style="margin-bottom: 0;" src="https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.talend.com" alt="Logo" /> What is Middleware? Technology's Go-to Middleman](https://www.talend.com/resources/what-is-middleware/)
 
 ### Request-Reply Protocol
 
@@ -3706,9 +3699,9 @@ Learn how to use SSH and learn how to connect to a device using an SSH client.
 ## ➤ Contributors
 	
 
-| [<img alt="Alexandru Armas" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/alexandruarmas) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/alexandruarmas/coding/blob/master/CONTRIBUTING.md) |
+| [<img alt="Alexandru Armas" src="https://i.postimg.cc/8zzmfhjR/icon-removebg.png" width="100">](https://x.com/mrarmas02) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/alexandruarmas/coding/blob/master/CONTRIBUTING.md) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| [Alexandru Armas](https://twitter.com/alexandruarmas) | [You?](https://github.com/alexandruarmas/coding/blob/master/CONTRIBUTING.md) |
+| [Alexandru Armas](https://x.com/mrarmas02) | [You?](https://github.com/alexandruarmas/coding/blob/master/CONTRIBUTING.md) |
 | 🔥                                               |                                                  |
 
 

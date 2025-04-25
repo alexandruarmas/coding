@@ -48,7 +48,7 @@ export async function openShare ({title, text, url}) {
 		["Copy", () => copyToClipboard(url)],
 		["WhatsApp", () => openShareUrl(`https://wa.me/?text=${encodeURIComponent(`${title}. ${text}. Find it here ${url}`)}`)],
 		["Facebook", () => openShareUrl(`https://www.facebook.com/sharer/sharer.php?u=${safeUrl}`)],
-		["Twitter", () => openShareUrl(`https://twitter.com/intent/tweet?&url=${safeUrl}&text=${safeText}`)],
+		["Twitter", () => openShareUrl(`https://x.com/intent/tweet?&url=${safeUrl}&text=${safeText}`)],
 		["LinkedIn", () => openShareUrl(`https://www.linkedin.com/shareArticle?mini=true&url=${safeUrl}&title=${safeTitle}&summary=${safeText}`)],
 		["Reddit", () => openShareUrl(`https://www.reddit.com/submit?url=${safeUrl}&title=${safeText}`)],
 		["Email", () => openShareUrl(`mailto:?subject=${safeTitle}&body=${encodeURIComponent(`${text}. Find it here ${url}`)}`)],

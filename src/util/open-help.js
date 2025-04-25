@@ -82,7 +82,7 @@ export async function openHelp () {
 			<p>When a skill is described as experimental, it means that the technology is immature and currently in the process of being added to the Web platform (or considered for addition). Think carefully before you start using experimental technology in any kind of production project. The definition used in Web Skills is based on the excellent definition used on <a target="_blank" href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Conventions_definitions#Experimental" rel="noopener">MDN</a>. You are very welcome to open an issue on <a target="_blank" href="https://github.com/andreasbm/web-skills/issues" rel="noopener" aria-label="Open get involved">Github</a> if you see a skill you believe should be marked as "experimental" or have the banner removed.</p>
 
 			<h3>How can I get in contact with you?</h3>
-			<p>Reach out to me on Twitter at <a target="_blank" href="https://x.com/mrarmas02" rel="noopener" aria-label="Open Twitter">@mrarmas02</a> or take a look at <a target="_blank" href="https://alexandruarmas.ro" rel="noopener" aria-label="Open personal website">my website</a> if you want to learn more about what other projects I'm working on.</p>
+			<p>Reach out to me on X at <a target="_blank" href="https://x.com/mrarmas02" rel="noopener" aria-label="Open X">@mrarmas02</a> or take a look at <a target="_blank" href="https://alexandruarmas.ro" rel="noopener" aria-label="Open personal website">my website</a> if you want to learn more about what other projects I'm working on.</p>
 			
 			<span id="version">v${APP_VERSION}</span>
 		`, $dialog)

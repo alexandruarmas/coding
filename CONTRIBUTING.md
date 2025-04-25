@@ -6,8 +6,8 @@ You are more than welcome to contribute to `coding` in any way you please, inclu
 * Fixing spelling and grammar.
 * Adding tests.
 * Fixing issues and suggesting new features.
-* Blogging, tweeting, and creating tutorials linking to `http://alexandruarmas.github.io/coding`.
-* Reaching out to [@alexandruarmas](https://twitter.com/alexandruarmas) on Twitter.
+* Blogging, posting, and creating tutorials linking to `http://alexandruarmas.github.io/coding`.
+* Reaching out to [@mrarmas02](https://x.com/mrarmas02) on X.
 * Submit an issue or a pull request.
 
 If you want to make some changes to `coding` you are very welcome to open a PR with the additions. I can't promise that every PR will get merged, but I'll try to respond to everyone.
@@ -20,4 +20,4 @@ In the `assets` folder you can find all of the images for the skills. The path o
 
 To serve the website locally you'll need to run `npm run s`. This will spin up a local dev server and open the browser.
 
-If you have any questions feel free to open an issue or send a PM to [@alexandruarmas](https://twitter.com/alexandruarmas) on Twitter. 
+If you have any questions feel free to open an issue or send a PM to [@mrarmas02](https://x.com/mrarmas02) on X. 

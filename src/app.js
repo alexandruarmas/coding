@@ -735,8 +735,8 @@ export class App extends LitElement {
 					<a href="https://github.com/alexandruarmas/coding/stargazers" target="_blank" aria-label="Become a stargazer" rel="noopener">
 						<ws-button>⭐️ Become a stargazer</ws-button>
 					</a>
-					<a href="https://x.com/mrarmas02" target="_blank" aria-label="Open Twitter" rel="noopener">
-						<ws-button>🐦 Say hi on Twitter</ws-button>
+					<a href="https://x.com/mrarmas02" target="_blank" aria-label="Open X" rel="noopener">
+						<ws-button>🐦 Say hi on X</ws-button>
 					</a>
 					<a href="https://buymeacoffee.com/alexandruarmas" target="_blank" aria-label="Buy coffee" rel="noopener">
 						<ws-button>☕️ Support me with a cup of coffee</ws-button>

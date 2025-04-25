@@ -195,7 +195,7 @@ When a skill is described as experimental, it means that the technology is immat
 
 ### How can I get in contact with you?
 
-Reach out to me on Twitter at [@mrarmas02](https://x.com/mrarmas02) or take a look at [my website](https://alexandruarmas.ro) if you want to learn more about what other projects I'm working on.
+Reach out to me on X at [@mrarmas02](https://x.com/mrarmas02) or take a look at [my website](https://alexandruarmas.ro) if you want to learn more about what other projects I'm working on.
 
 ${collectionsMarkdown}
 {{ template:contributors }}
